@@ -1,5 +1,3 @@
-[![Header](https://github.com/Dadebay/Dadebay/blob/main/assets/logo.png)](https://www.tiktok.com/@tkmprogrammer)
-
 ## I'm Front-End and Back-End Developer & Junior Flutter Developer 🤘😏
 
 ### Languages and Tools
