@@ -1,16 +1,16 @@
 ## I'm Front-End and Back-End Developer & Junior Flutter Developer 🤘😏
 
 ### Languages and Tools
-![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=47C5FB)
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript&logoColor=47C5FB)
-![PHP](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=php&logoColor=47C5FB)
-![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html&logoColor=47C5FB)
-![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css&logoColor=47C5FB)
-![SCSS](https://img.shields.io/badge/-SCSS-090909?style=for-the-badge&logo=scss&logoColor=47C5FB)
-![Vue](https://img.shields.io/badge/-Vue-090909?style=for-the-badge&logo=vue&logoColor=47C5FB)
-![Nuxt](https://img.shields.io/badge/-Nuxt-090909?style=for-the-badge&logo=nuxt&logoColor=47C5FB)
-![Laravel](https://img.shields.io/badge/-Laravel-090909?style=for-the-badge&logo=laravel&logoColor=47C5FB)
-![Django](https://img.shields.io/badge/-Django-090909?style=for-the-badge&logo=django&logoColor=47C5FB)
+![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=3776AB)
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![PHP](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=php&logoColor=777BB4)
+![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css&logoColor=1572B6)
+![SCSS](https://img.shields.io/badge/-SCSS-090909?style=for-the-badge&logo=scss&logoColor=CC6699)
+![Vue](https://img.shields.io/badge/-Vue.js-090909?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Nuxt](https://img.shields.io/badge/-Nuxt.js-090909?style=for-the-badge&logo=nuxtdotjs&logoColor=00DC82)
+![Laravel](https://img.shields.io/badge/-Laravel-090909?style=for-the-badge&logo=laravel&logoColor=FF2D20)
+![Django](https://img.shields.io/badge/-Django-090909?style=for-the-badge&logo=django&logoColor=092E20)
 ![Flutter](https://img.shields.io/badge/-Flutter-090909?style=for-the-badge&logo=flutter&logoColor=47C5FB)
 ![Dart](https://img.shields.io/badge/-Dart-090909?style=for-the-badge&logo=dart&logoColor=097CDB)
 
