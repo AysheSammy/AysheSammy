@@ -1,4 +1,4 @@
-## I'm Front-End and Back-End Developer & Junior Flutter Developer 🤘😏
+## I'm Front-End and Back-End Developer & Junior Flutter Developer
 
 ### Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=3776AB)
